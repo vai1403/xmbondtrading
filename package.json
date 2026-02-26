@@ -1,0 +1,1 @@
+{"name":"xm-pro-trading-platform","version":"1.0.0","description":"XM Pro - Professional Trading Platform","main":"server.js","scripts":{"start":"node server.js","dev":"node server.js"},"keywords":["trading","forex","broker","xm-pro"],"author":"XM Pro","license":"MIT","dependencies":{"express":"^4.18.2"},"engines":{"node":">=14.0.0"}}
